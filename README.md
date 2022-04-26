@@ -16,7 +16,7 @@ here we convert the model and weights of PP-LiteSeg-B(1024x512) from paddlepaddl
 
 pp_liteseg.py : pytorch model
 
-ppliteset_pp2torch_cityscape_pretrained.pth: the cityscape pretrained weights trained with paddleseg 
+[ppliteset_pp2torch_cityscape_pretrained.pth](https://github.com/midasklr/PPLiteSeg.pytorch/releases/download/weights/ppliteset_pp2torch_cityscape_pretrained.pth): the cityscape pretrained weights trained with paddleseg 
 
 demo of paddleseg:
 
